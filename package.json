@@ -59,7 +59,7 @@
     "supertest": "^4.0.2",
     "test": "^0.6.0",
     "webpack": "^4.29.2",
-    "webpack-cli": "^3.2.3",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.8.2"
   }
 }
